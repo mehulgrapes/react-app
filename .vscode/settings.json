@@ -1,0 +1,7 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "on",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.formatOnSave": true
+}
